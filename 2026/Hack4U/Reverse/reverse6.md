@@ -52,4 +52,4 @@ if __name__ == '__main__':
     print(u)
 ```
 
-`H4U{pyth0n_byt3c0d3_r3v}
+`H4U{pyth0n_byt3c0d3_r3v}`
