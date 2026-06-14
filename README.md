@@ -1,6 +1,6 @@
 # CTF_Writeups
 
-![Manintained](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)
+![Manintained](https://img.shields.io/badge/Maintained%3F-no-blue.svg)
 ![Contributors](https://img.shields.io/github/contributors/Calana2/CTF_Writeups?color=green)
 ![GitHub last commit (master)](https://img.shields.io/github/last-commit/Calana2/CTF_Writeups?color=yellow)
 
